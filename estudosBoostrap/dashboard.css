@@ -5,11 +5,16 @@
 }
 body{
     max-height: 100vh;
+    background-color: blanchedalmond;
 }
 .sidebar-lateral {
     height: 90vh;
     background-color: black;
-    width: calc(100% - 1600px);;
+    width: 10%;
+}
+.container {
+    width: 90%;
+    
 }
 footer{
     background-color: #ccc;
@@ -17,4 +22,40 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+@media(max-width:320px) {
+    .sidebar-lateral {
+        height: 90vh;
+        background-color: black;
+        width: 22%;
+        font-size: 12px;
+    }
+}
+
+@media(max-width:375px) {
+    .sidebar-lateral {
+        height: 90vh;
+        background-color: black;
+        width: 22%;
+        font-size: 12px;
+    }
+}
+
+@media(max-width:425px) {
+    .sidebar-lateral {
+        height: 90vh;
+        background-color: black;
+        width: 22%;
+        font-size: 12px;
+    }
+}
+
+@media(max-width:768px) {
+    .sidebar-lateral {
+        height: 90vh;
+        background-color: black;
+        width: 22%;
+       
+    }
 }
