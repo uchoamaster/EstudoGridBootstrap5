@@ -1,0 +1,26 @@
+{
+  "name": "criandositebootstrap4-ricardosanches",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "sass": "^1.26.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian-Fernandes/CriandoSiteBootstrap4-RicardoSanches.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brian-Fernandes/CriandoSiteBootstrap4-RicardoSanches/issues"
+  },
+  "homepage": "https://github.com/Brian-Fernandes/CriandoSiteBootstrap4-RicardoSanches#readme",
+  "description": ""
+}
